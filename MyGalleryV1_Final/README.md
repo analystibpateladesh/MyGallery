@@ -1,4 +1,4 @@
-# MyGallery V1 — Android Studio
+# MyGallery V1 : Android app
 
 ## What this version does
 - Reads photos/videos from Android MediaStore.
