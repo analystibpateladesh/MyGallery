@@ -1,0 +1,15 @@
+MyGallery V1 compile fixes
+
+1. Java and Kotlin are both configured for JVM 17.
+2. Added the missing androidx.activity.compose.setContent import.
+3. Opted into the experimental Material 3 API used by this V1.
+4. Fixed nullable MIME-type checks in the media filter.
+
+Build:
+Android Studio -> Sync Project with Gradle Files
+Build -> Clean Project
+Build -> Rebuild Project
+Build -> Build Bundle(s) / APK(s) -> Build APK(s)
+
+APK:
+app/build/outputs/apk/debug/app-debug.apk

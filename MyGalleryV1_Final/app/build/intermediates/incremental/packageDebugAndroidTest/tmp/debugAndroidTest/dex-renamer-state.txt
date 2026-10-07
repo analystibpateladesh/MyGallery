@@ -1,0 +1,4 @@
+#Fri Oct 02 02:11:14 IST 2026
+base.0=C\:\\Users\\adesh\\Downloads\\MyGalleryV1-Enhanced-Gallery\\MyGalleryV1_Final\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

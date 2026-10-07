@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.mygallery.app-debug-36:/drawable_mygallery_icon.xml.flat",
+        "source": "com.mygallery.app-main-38:/drawable/mygallery_icon.xml"
+    }
+]
