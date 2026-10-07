@@ -1,4 +1,9 @@
 # MyGallery V1 : Android app
+Basically a file manager like Laptop/PC but for Mobile.
+
+**Mostly we deal like finding a photo or we can't get all photos of one type at a place, so that's why i build My gallery.
+Serch any file or photo, rename, share, save or any way downloads, create folder, it's with fully privacy, no database usage, as it's uses you phone memory.**
+
 
 ## What this version does
 - Reads photos/videos from Android MediaStore.
